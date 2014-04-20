@@ -87,9 +87,6 @@ public class Main {
 			System.out.println("置換文字列：" + REPLACE_WORD);
 		}
 		
-		System.out.println("問題なければENTERキーを押してください。");
-		System.in.read();
-		
 		// 検索の実行
 		searchDir(searchDirPath);
 
